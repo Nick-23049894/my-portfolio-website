@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-website/static/css/main.b5c73e01.css",
+    "main.js": "/my-portfolio-website/static/js/main.1cc577d7.js",
+    "static/media/videobg.mp4": "/my-portfolio-website/static/media/videobg.95f41a349399a3d26eaf.mp4",
+    "static/media/bg1.png": "/my-portfolio-website/static/media/bg1.6c9d216c7a9cc1e9d080.png",
+    "static/media/Brik-Haven.png": "/my-portfolio-website/static/media/Brik-Haven.acddb631bd063b02b55a.png",
+    "static/media/AboutmeImg.jpg": "/my-portfolio-website/static/media/AboutmeImg.e5cc31ae8de5495b279c.jpg",
+    "static/media/Task-Manager.png": "/my-portfolio-website/static/media/Task-Manager.33c4241e196d22b608cf.png",
+    "static/media/Nick’s-Pizza-Co.png": "/my-portfolio-website/static/media/Nick’s-Pizza-Co.25ee0d469268ea2d47a4.png",
+    "static/media/Icon8.png": "/my-portfolio-website/static/media/Icon8.6a5cbc319ab3ddf8ef92.png",
+    "static/media/Icon4.png": "/my-portfolio-website/static/media/Icon4.10ccac0eb9dd930b6b6c.png",
+    "static/media/Icon5.png": "/my-portfolio-website/static/media/Icon5.339f174c692e921a204a.png",
+    "static/media/Icon2.png": "/my-portfolio-website/static/media/Icon2.463e319bad8e0edf1ef7.png",
+    "static/media/Icon6.png": "/my-portfolio-website/static/media/Icon6.c8306d9279929e8b8cfe.png",
+    "static/media/Icon7.png": "/my-portfolio-website/static/media/Icon7.48fe2252b2519bbb9645.png",
+    "static/media/Icon3.png": "/my-portfolio-website/static/media/Icon3.3dfb665e058d08c99f28.png",
+    "index.html": "/my-portfolio-website/index.html",
+    "main.b5c73e01.css.map": "/my-portfolio-website/static/css/main.b5c73e01.css.map",
+    "main.1cc577d7.js.map": "/my-portfolio-website/static/js/main.1cc577d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5c73e01.css",
+    "static/js/main.1cc577d7.js"
+  ]
+}
